@@ -3,6 +3,7 @@
 	flex-direction: row;
 	justify-content: center;
 	flex-wrap: wrap;
+	background-color:#ccccb3;
 }
 .child{
 	padding: 5px ;
